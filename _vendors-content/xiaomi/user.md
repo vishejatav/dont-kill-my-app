@@ -1,6 +1,6 @@
 ---
 manufacturer: 
-    - xiaomi
+    - xiaomi not7 pro
 
 ---
 
